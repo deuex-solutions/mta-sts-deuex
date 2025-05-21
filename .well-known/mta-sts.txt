@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 max_age: 604800
 mx: aspmx2.googlemail.com
 mx: aspmx3.googlemail.com
